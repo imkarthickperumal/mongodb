@@ -1,0 +1,20 @@
+// SQL v/s NoSQL
+
+SQL : Stored in RDBMS format (tables, rows, columns) like excel format
+
+SQL : Structured Query Language
+
+Vertically scalable(1 single computer)
+
+// CPU <=> Database Engine
+// Code <=> SQL Statements
+
+// Database Engine = what data you want through SQL
+
+
+Query -> Database Engine
+
+
+NoSQL : It is not usually RDBMS 
+NoSQL : is similar like json {"key": value, "key2" : value} 
+NoSQL : Horizontally scalable
