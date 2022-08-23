@@ -18,3 +18,11 @@ Query -> Database Engine
 NoSQL : It is not usually RDBMS 
 NoSQL : is similar like json {"key": value, "key2" : value} 
 NoSQL : Horizontally scalable
+
+1. npm init
+2. npm install express --save
+3. npm install -g nodemon
+   what is nodemon : nodemon is a tool that helps develop node. 
+   js based applications by automatically restarting the node application when file changes in the directory are detected.
+4. nodemon app => appname 
+5. npm install mongodb --save
