@@ -15,5 +15,5 @@ module.exports = {
       });
   },
   // second function
-  getDb: () => {},
+  getDb: () => dbConnection
 };
